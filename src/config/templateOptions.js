@@ -10,5 +10,5 @@ export default {
     bottom: '100px',
   },
   printBackground: true,
-  path: 'output.pdf',
+  path: 'temp/output.pdf',
 };
